@@ -89,6 +89,8 @@ sns.pairplot(dt)
 
 ![282286722-79902a6c-c3fc-4a5d-bd61-70317717c112](https://github.com/divyakumars/ODD2023-Datascience-Ex-04/assets/119393621/655cc890-e455-4e63-adb6-57a8a5241607)
 ![273399570-6801fb97-8256-4730-8429-2e6e430506f8](https://github.com/divyakumars/ODD2023-Datascience-Ex-04/assets/119393621/2861387a-5d81-4187-89d6-ff71aa56596c)
+
+
 ![273399633-48f3c47c-ddea-4023-a950-655d5affe5af](https://github.com/divyakumars/ODD2023-Datascience-Ex-04/assets/119393621/0d684955-2506-4f46-baca-da7b540c937f)
 ![282286742-2c34e9be-9f40-4aed-96cf-ca0fd562a18a](https://github.com/divyakumars/ODD2023-Datascience-Ex-04/assets/119393621/77834348-f442-4148-a10c-621a3c9b72a2)
 ![282286747-7146dbb3-61b7-4d14-a564-5dbac36288f9](https://github.com/divyakumars/ODD2023-Datascience-Ex-04/assets/119393621/d6e84be9-fcf2-4458-bc35-4a9135ebb6fa)
