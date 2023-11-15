@@ -112,9 +112,5 @@ sns.pairplot(dt)
 
 
 
-
-
-
-
-RESULT:
+### RESULT:
 Thus we have read the given data and performed the multivariate analysis with different types of plots.
